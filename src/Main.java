@@ -22,6 +22,8 @@ void main() {
             System.out.println("4. Modificar peso");
             System.out.println("5. Modificar presion");
             System.out.println("6. Cambiar estado(estable/inestable");
+            System.out.println("7. Mostrar informacion");
+            System.out.println("8. Salir");
             System.out.print("Opción: ");
             opcion = teclado.nextInt();
       }
